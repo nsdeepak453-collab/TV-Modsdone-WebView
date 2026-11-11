@@ -1,4 +1,4 @@
-package in.modsdone.tvwebview
+package com.modsdone.tvwebview
 
 import android.app.Activity
 import android.os.Bundle
