@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "in.modsdone.tvwebview"
+   namespace = "com.modsdone.tvwebview"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "in.modsdone.tvwebview"
+        applicationId = "com.modsdone.tvwebview"
         minSdk = 23
         targetSdk = 35
         versionCode = 1
